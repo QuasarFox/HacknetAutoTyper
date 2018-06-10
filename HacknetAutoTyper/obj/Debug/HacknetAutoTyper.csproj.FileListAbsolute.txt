@@ -1,0 +1,9 @@
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\bin\Debug\HacknetAutoTyper.exe.config
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\bin\Debug\HacknetAutoTyper.exe
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\bin\Debug\HacknetAutoTyper.pdb
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\obj\Debug\HacknetAutoTyper.csprojResolveAssemblyReference.cache
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\obj\Debug\HacknetAutoTyper.Form1.resources
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\obj\Debug\HacknetAutoTyper.Properties.Resources.resources
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\obj\Debug\HacknetAutoTyper.csproj.GenerateResource.Cache
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\obj\Debug\HacknetAutoTyper.exe
+C:\Users\Manuel_Neubauer\Desktop\Privat\Visual Studio\Projekte\HacknetAutoTyper\HacknetAutoTyper\obj\Debug\HacknetAutoTyper.pdb
